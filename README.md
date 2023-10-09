@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Email Sender Backend</title>
-</head>
+  <meta title="Email sender" description="send and reciece email via nodemailer" />
 <body>
 
 <h1>Email Sender Backend</h1>
